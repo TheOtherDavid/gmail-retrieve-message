@@ -1,4 +1,4 @@
-package gmail-retrieve-message
+package gmailretriever
 
 import (
 	"context"
