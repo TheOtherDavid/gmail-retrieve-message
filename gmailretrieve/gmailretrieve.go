@@ -1,4 +1,4 @@
-package gmailretriever
+package gmailretrieve
 
 import (
 	"context"
